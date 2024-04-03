@@ -1,4 +1,6 @@
 id,rewrite_prompt
--1,"The prompt/instruction given to the LLM to rewrite/transform/improve the text in the `Rewritten Text` passage is likely to be:
+-1,"The prompt/instruction given to the LLM to rewrite/transform/improve the text in this way is likely to be:
 
-**Prompt:** ""Rewrite the original text in a creative and engaging way, using vivid imagery and storytelling techniques. The rewritten text should be in the form of a shanty, and should include a clear verse structure, a catchy chorus, and rhyming couplets."""
+**Prompt:**
+
+""Rewrite the original text in a creative and engaging way, using vivid imagery and storytelling techniques. The rewritten text should be in the form of a shanty, and should include a clear verse structure, a catchy chorus, and rhyming couplets. The rewritten text should be as close to the original text as possible, while also incorporating your own unique style"

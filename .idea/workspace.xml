@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="prompt recovery">
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/generation_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/model-00001-of-00002.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/model-00002-of-00002.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/model.safetensors.index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLM Prompt Recovery/model/tokenizer_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LLM Prompt Recovery/Prompt-Recovery.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LLM Prompt Recovery/Prompt-Recovery.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LLM Prompt Recovery/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LLM Prompt Recovery/submission.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/cheir/GitHub/Kaggle&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -75,6 +69,8 @@
       <workItem from="1712044970043" duration="822000" />
       <workItem from="1712047356845" duration="1671000" />
       <workItem from="1712049787432" duration="491000" />
+      <workItem from="1712101163629" duration="781000" />
+      <workItem from="1712111208254" duration="1962000" />
     </task>
     <task id="LOCAL-00001" summary="prompt recovery">
       <option name="closed" value="true" />
