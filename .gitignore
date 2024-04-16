@@ -5,3 +5,5 @@
 /LLM Prompt Recovery/model/
 /Quora Question Paris/data/
 /Quora Question Paris/results/
+/Quora Question Paris/bert-finetuned-uncased-QQP/
+/Quora Question Paris/submission.csv

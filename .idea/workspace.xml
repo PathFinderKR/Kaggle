@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="fix error">
-      <change afterPath="$PROJECT_DIR$/.idea/Kaggle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/AI Mathematical Olympiad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/PRM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/data/sample_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/data/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/data/train.csv" afterDir="false" />
+    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="Quora Question Paris">
+      <change afterPath="$PROJECT_DIR$/Quora Question Paris/submission.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kaggle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kaggle.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLM Prompt Recovery/Prompt-Recovery.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LLM Prompt Recovery/Prompt-Recovery.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLM Prompt Recovery/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LLM Prompt Recovery/submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -124,6 +112,7 @@
       <workItem from="1713154908557" duration="3764000" />
       <workItem from="1713160926373" duration="7245000" />
       <workItem from="1713168833528" duration="474000" />
+      <workItem from="1713169337111" duration="10168000" />
     </task>
     <task id="LOCAL-00001" summary="prompt recovery">
       <option name="closed" value="true" />
@@ -197,7 +186,39 @@
       <option name="project" value="LOCAL" />
       <updated>1712582494297</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LLM Prompt Recovery">
+      <option name="closed" value="true" />
+      <created>1713169423168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169423168</updated>
+    </task>
+    <task id="LOCAL-00011" summary="AI Mathematical Olympiad">
+      <option name="closed" value="true" />
+      <created>1713169471216</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169471216</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713169490789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169490789</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713225227791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713225227791</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +229,9 @@
     <MESSAGE value="prompt recovery" />
     <MESSAGE value="hyperparamter tuning" />
     <MESSAGE value="fix error" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix error" />
+    <MESSAGE value="LLM Prompt Recovery" />
+    <MESSAGE value="AI Mathematical Olympiad" />
+    <MESSAGE value="Quora Question Paris" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quora Question Paris" />
   </component>
 </project>
