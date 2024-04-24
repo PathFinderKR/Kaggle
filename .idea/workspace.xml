@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="LLM Prompt Recovery">
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug-cli.pathfinder.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug-internal.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/latest-run" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI Mathematical Olympiad/PRM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/PRM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +30,12 @@
     &quot;assignee&quot;: &quot;PathFinderKR&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PathFinderKR/Kaggle.git&quot;,
-    &quot;accountId&quot;: &quot;335f57c1-f4eb-4b07-975f-a699f7b587fa&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PathFinderKR/Kaggle.git",
+    "accountId": "bd9a3dd6-398d-4750-8f11-c35121d96e5c"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -120,6 +115,7 @@
       <workItem from="1713934476047" duration="451000" />
       <workItem from="1713935198648" duration="2659000" />
       <workItem from="1713939509799" duration="5261000" />
+      <workItem from="1713953526969" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="prompt recovery">
       <option name="closed" value="true" />
