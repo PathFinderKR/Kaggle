@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="Quora Question Paris">
-      <change afterPath="$PROJECT_DIR$/Quora Question Paris/submission.csv" afterDir="false" />
+    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="LLM Prompt Recovery">
+      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug-cli.pathfinder.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug-internal.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quora Question Paris/wandb/latest-run" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kaggle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kaggle.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Mathematical Olympiad/PRM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI Mathematical Olympiad/PRM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/PathFinderKR/Kaggle.git&quot;,
-    &quot;accountId&quot;: &quot;bd9a3dd6-398d-4750-8f11-c35121d96e5c&quot;
+    &quot;accountId&quot;: &quot;335f57c1-f4eb-4b07-975f-a699f7b587fa&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheir/GitHub/HuggingFace-Course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pathfinder/Documents/GitHub/Kaggle&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -113,6 +115,11 @@
       <workItem from="1713160926373" duration="7245000" />
       <workItem from="1713168833528" duration="474000" />
       <workItem from="1713169337111" duration="10168000" />
+      <workItem from="1713930571068" duration="3710000" />
+      <workItem from="1713934336683" duration="137000" />
+      <workItem from="1713934476047" duration="451000" />
+      <workItem from="1713935198648" duration="2659000" />
+      <workItem from="1713939509799" duration="5261000" />
     </task>
     <task id="LOCAL-00001" summary="prompt recovery">
       <option name="closed" value="true" />
@@ -218,7 +225,39 @@
       <option name="project" value="LOCAL" />
       <updated>1713225227791</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713931518871</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713931518871</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713931633539</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713931633539</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713934178769</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713934178769</updated>
+    </task>
+    <task id="LOCAL-00017" summary="LLM Prompt Recovery">
+      <option name="closed" value="true" />
+      <created>1713934194857</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713934194857</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,9 +268,9 @@
     <MESSAGE value="prompt recovery" />
     <MESSAGE value="hyperparamter tuning" />
     <MESSAGE value="fix error" />
-    <MESSAGE value="LLM Prompt Recovery" />
     <MESSAGE value="AI Mathematical Olympiad" />
     <MESSAGE value="Quora Question Paris" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quora Question Paris" />
+    <MESSAGE value="LLM Prompt Recovery" />
+    <option name="LAST_COMMIT_MESSAGE" value="LLM Prompt Recovery" />
   </component>
 </project>
