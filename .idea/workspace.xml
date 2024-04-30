@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="LLM Prompt Recovery">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Similarity Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quora Question Paris/Submission.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="Quora Question Paris" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +111,7 @@
       <workItem from="1713934476047" duration="451000" />
       <workItem from="1713935198648" duration="2659000" />
       <workItem from="1713939509799" duration="5261000" />
-      <workItem from="1713953526969" duration="415000" />
+      <workItem from="1713953526969" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="prompt recovery">
       <option name="closed" value="true" />
@@ -253,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713934194857</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713960181112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713960181112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,8 +269,8 @@
     <MESSAGE value="hyperparamter tuning" />
     <MESSAGE value="fix error" />
     <MESSAGE value="AI Mathematical Olympiad" />
-    <MESSAGE value="Quora Question Paris" />
     <MESSAGE value="LLM Prompt Recovery" />
-    <option name="LAST_COMMIT_MESSAGE" value="LLM Prompt Recovery" />
+    <MESSAGE value="Quora Question Paris" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quora Question Paris" />
   </component>
 </project>
