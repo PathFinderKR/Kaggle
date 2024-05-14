@@ -1,0 +1,6 @@
+id,rewrite_prompt
+-1,"The prompt given to the LLM to rewrite the text in this way is:
+
+```
+Write a shanty about a code competition where the goal is to guess the prompts used to rewrite text.
+```"

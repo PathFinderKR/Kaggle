@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="Kaggle" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PathFinderKR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PathFinderKR/Kaggle.git",
+    "accountId": "335f57c1-f4eb-4b07-975f-a699f7b587fa"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eUPLjafL1QPmEMAVemHVIblJy7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pathfinder/Documents/GitHub/Kaggle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0744b4c-30ff-4b8e-aaf6-ee03450f9c69" name="Changes" comment="" />
+      <created>1711956130793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711956130793</updated>
+      <workItem from="1711956131764" duration="1220000" />
+      <workItem from="1711957372807" duration="64000" />
+      <workItem from="1711960282165" duration="18000" />
+      <workItem from="1712044970043" duration="822000" />
+      <workItem from="1712047356845" duration="1671000" />
+      <workItem from="1712049787432" duration="491000" />
+      <workItem from="1712101163629" duration="781000" />
+      <workItem from="1712111208254" duration="2304000" />
+      <workItem from="1712150950884" duration="1304000" />
+      <workItem from="1712188692924" duration="2471000" />
+      <workItem from="1712192234035" duration="416000" />
+      <workItem from="1712192670934" duration="4499000" />
+      <workItem from="1712459733304" duration="1448000" />
+      <workItem from="1712576728500" duration="4449000" />
+      <workItem from="1712582324698" duration="195000" />
+      <workItem from="1712582617216" duration="897000" />
+      <workItem from="1712645383168" duration="12427000" />
+      <workItem from="1712717505070" duration="3532000" />
+      <workItem from="1712750922572" duration="291000" />
+      <workItem from="1712751251717" duration="25000" />
+      <workItem from="1712793376301" duration="6635000" />
+      <workItem from="1713146989315" duration="7000" />
+      <workItem from="1713154908557" duration="3764000" />
+      <workItem from="1713160926373" duration="7245000" />
+      <workItem from="1713168833528" duration="474000" />
+      <workItem from="1713169337111" duration="10168000" />
+      <workItem from="1713930571068" duration="3710000" />
+      <workItem from="1713934336683" duration="137000" />
+      <workItem from="1713934476047" duration="451000" />
+      <workItem from="1713935198648" duration="2659000" />
+      <workItem from="1713939509799" duration="5261000" />
+      <workItem from="1713953526969" duration="1690000" />
+      <workItem from="1714457864660" duration="23000" />
+      <workItem from="1715142837427" duration="5465000" />
+      <workItem from="1715152054987" duration="10673000" />
+      <workItem from="1715650241816" duration="128000" />
+      <workItem from="1715650971520" duration="9648000" />
+    </task>
+    <task id="LOCAL-00001" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1711956631958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711956631958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1711956701641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711956701641</updated>
+    </task>
+    <task id="LOCAL-00003" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1711957416965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711957416965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1711957430232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711957430232</updated>
+    </task>
+    <task id="LOCAL-00005" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1712049026415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712049026415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="prompt recovery">
+      <option name="closed" value="true" />
+      <created>1712049932689</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712049932689</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hyperparamter tuning">
+      <option name="closed" value="true" />
+      <created>1712114857644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712114857644</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix error">
+      <option name="closed" value="true" />
+      <created>1712192602523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712192602523</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix error">
+      <option name="closed" value="true" />
+      <created>1712582494297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712582494297</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LLM Prompt Recovery">
+      <option name="closed" value="true" />
+      <created>1713169423168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169423168</updated>
+    </task>
+    <task id="LOCAL-00011" summary="AI Mathematical Olympiad">
+      <option name="closed" value="true" />
+      <created>1713169471216</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169471216</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713169490789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169490789</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713225227791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713225227791</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713931518871</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713931518871</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713931633539</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713931633539</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713934178769</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713934178769</updated>
+    </task>
+    <task id="LOCAL-00017" summary="LLM Prompt Recovery">
+      <option name="closed" value="true" />
+      <created>1713934194857</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713934194857</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Quora Question Paris">
+      <option name="closed" value="true" />
+      <created>1713960181112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713960181112</updated>
+    </task>
+    <task id="LOCAL-00019" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1714457883180</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1714457883180</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Kaggle">
+      <option name="closed" value="true" />
+      <created>1715650342713</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715650342713</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Kaggle">
+      <option name="closed" value="true" />
+      <created>1715650382851</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715650382851</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Kaggle">
+      <option name="closed" value="true" />
+      <created>1715665554278</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715665554278</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="prompt recovery" />
+    <MESSAGE value="hyperparamter tuning" />
+    <MESSAGE value="fix error" />
+    <MESSAGE value="AI Mathematical Olympiad" />
+    <MESSAGE value="LLM Prompt Recovery" />
+    <MESSAGE value="Quora Question Paris" />
+    <MESSAGE value=".idea" />
+    <MESSAGE value="Kaggle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaggle" />
+  </component>
+</project>
